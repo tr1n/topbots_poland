@@ -92,7 +92,7 @@ senpai_0000 - Research brakujących botów.
 [Pawelek-dev](https://gist.github.com/Pawelek-dev/31ad4ed8d76b8236a6af22e479b0bff5) - Oryginalny twórca oraz zgoda na przejęcie projektu.
 
 ### Uwagi
-* *Aktualizacje tabeli jest ręcznie wykonane, jeśli pojawi się zmiana w tabeli to zostanie zmienione.*
+* *Aktualizacje tabeli są wykonywane ręcznie. Jeśli pojawi się jakakolwiek zmiana zostanie to zmienione.*
 
 * *Pamiętaj, że tabela może być niekompletna. Możesz pomóc w uzupełnieniu w komentarzu.*
 
