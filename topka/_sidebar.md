@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [Strona główna](/)
-* [Funkcjonowalne boty]()
+* [Funkcjonowalne boty](/topka/)
 ** [Od 100,000](/topka/?id=funkcjonowalne-boty-od-100000)
 ** [Od 10,000](/topka/?id=funkcjonowalne-boty-od-10000)
 ** [Od 1,000](/topka/?id=funkcjonowalne-boty-od-1000)
@@ -12,6 +12,3 @@
 ** [Odznaki](/topka/?id=odznaki-bota)
 ** [Podziękowania](/topka/?id=podzi%c4%99kowania)
 ** [Uwagi](/topka/?id=uwagi)
-
-Lista aktualizowana przez:
-[tR1N](/) [katastrofa](/)

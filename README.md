@@ -3,7 +3,7 @@
 Nasza strona to Twoja lista o najbardziej popularnych i innowacyjnych botach dostępnych na polskim Discordzie.
 Tutaj znajdziesz wszystko, czego potrzebujesz, aby w pełni wykorzystać potencjał swojego serwera!
 
-Aby przejść do listy wybierz [Topka](topka).
+Aby przejść do listy wybierz [Topka](/topka/).
 
 `Ostatnia aktualizacja:`
 `29.07.2024, godzina: 20:17`

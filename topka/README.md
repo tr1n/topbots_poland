@@ -1,6 +1,6 @@
 # Polska topka botów na Discord
 
-> Na podstawie dnia 29.07.2024 roku. Godzina 20:17
+> Na podstawie dnia 29.07.2024, godzina: 20:17
 
 ## Funkcjonowalne boty. (Od 100,000)
 
