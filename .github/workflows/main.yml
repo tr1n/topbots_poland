@@ -1,0 +1,41 @@
+on: push
+name: 🚀 Deploy website on push
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v3
+
+    - name: PHP Version
+      run: php --version
+
+    - name: Validate composer.json and composer.lock
+      run: composer validate
+
+    - name: Get Composer cache directory
+      id: composer-cache
+      #run: echo "::set-output name=dir::$(composer config cache-files-dir)"
+      run: echo "dir=$(composer config cache-files-dir)" >> $GITHUB_OUTPUT
+
+    - name: Cache Composer vendor directory
+      uses: actions/cache@v3
+      with:
+        path: ${{ steps.composer-cache.outputs.dir }}
+        key: ${{ runner.os }}-composer-${{ hashFiles('**/composer.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-composer-
+    - name: Install PHP dependencies
+      run: composer install --no-progress --no-dev --optimize-autoloader
+
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      with:
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: ./
+        server-dir: ./var/www/topbots.tr1n.me/docs
+        log-level: verbose
+        
