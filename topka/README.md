@@ -85,16 +85,16 @@
 ![](https://topbots.pl/badges/automod30x30.ico) - Bot utworzył 100 zasad na serwerach.
 
 ### Podziękowania
-minerpl - Research brakujących botów.
+* minerpl - Research brakujących botów.
 
-senpai_0000 - Research brakujących botów.
+* senpai_0000 - Research brakujących botów.
 
-[Pawelek-dev](https://gist.github.com/Pawelek-dev/31ad4ed8d76b8236a6af22e479b0bff5) - Oryginalny twórca oraz zgoda na przejęcie projektu.
+* [Pawelek-dev](https://gist.github.com/Pawelek-dev/31ad4ed8d76b8236a6af22e479b0bff5) - Oryginalny twórca oraz zgoda na przejęcie projektu.
 
 ### Uwagi
-* *Aktualizacje tabeli są wykonywane ręcznie. Jeśli pojawi się jakakolwiek zmiana zostanie to zmienione.*
+* Aktualizacje tabeli są wykonywane ręcznie. Jeśli pojawi się jakakolwiek zmiana zostanie to zmienione.
 
-* *Pamiętaj, że tabela może być niekompletna. Możesz pomóc w uzupełnieniu w komentarzu.*
+* Pamiętaj, że tabela może być niekompletna. Możesz pomóc w uzupełnieniu w komentarzu.
 
-* *Mniejsze boty będą wstawiane od 750 serwerów, może się zmienić limit.*
+* Mniejsze boty będą wstawiane od 750 serwerów, może się zmienić limit.
 
