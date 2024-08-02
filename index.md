@@ -1,6 +1,5 @@
-<h1 align="center"> Witamy na TopBots! <br /><br />
-<img src="https://topbots.pl/static/metaname.png">
 
+# Witamy na TopBots!
 ## Najlepsza lista Polskich botów na discordzie!
 
 TopBots to miejsce, gdzie znajdziesz najbardziej wartościowe i popularne boty, które wzbogacą Twoje doświadczenie na Discordzie. Jesteśmy społecznością, która dąży do zebrania w jednym miejscu najlepszych polskich botów, zapewniając użytkownikom łatwy dostęp do narzędzi i funkcji, które mogą poprawić interakcje i zarządzanie serwerami.
@@ -10,7 +9,14 @@ Jeżeli znasz bota, który działa na ponad 500 serwerach, podziel się tą info
 
 ### Dołącz do nas i odkryj najlepsze boty, które zmienią Twój serwer na lepsze!
 
-[Dołącz do naszego Discorda!](https://discord.gg/BcRcCAV4gS)
+[Dołącz do naszego Discorda!](https://discord.com/)
 
-### Pełną listę znajdziesz na naszej stronie internetowej:
-[TopBots.pl](https://topbots.pl)
+# 
+# 
+
+### Uwagi
+* *Aktualizacje tabeli są wykonywane ręcznie. Jeśli pojawi się jakakolwiek zmiana zostanie to wykonane.*
+* *Pamiętaj, że tabele mogą być niekompletne. Możesz pomóc w uzupełnieniu kontaktując się z nami na serwerze Discord.*
+* *Mniejsze boty będą wstawiane od 150 serwerów, limit może się zmienić.*
+
+

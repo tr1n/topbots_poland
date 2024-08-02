@@ -1,0 +1,59 @@
+input: .
+output: .retype
+url: topbots.pl
+serve:
+  host: 0.0.0.0:5000
+start:
+  open: false
+branding:
+  logo: static/logo.png
+  logoDark: static/logo-dark.png
+  logoAlign: left
+  title: topbots.pl
+  label: "Aktualizacja: 29.07.2024"
+  colors:
+    label:
+      text: "#00FF99"
+      background: "#176B4A"
+
+favicon: static/favicon.png
+
+cache:
+  strategy: query
+
+links:
+- text: Strona główna
+  icon: "./static/icons/ic_round-home.svg"
+  link: https://topbots.pl
+- text: Discord
+  icon: "./static/icons/discord2.svg"
+  link: https://discord.gg/BcRcCAV4gS
+  target: blank 
+
+editor:
+  enabled: false # Default is true
+  
+footer:
+  copyright: "&copy; {{ year }}, Some Rights Reserved."
+  links:
+    - text: AdviceBot
+      link: https://advicebot.info
+    - text: Muse
+      link: https://musebot.pro
+
+meta:
+  title: " | Polska topka botów na Discord ▪️ topbots.pl"
+  description: TopBots to miejsce, gdzie znajdziesz najbardziej wartościowe i popularne boty, które wzbogacą Twoje doświadczenie na Discordzie. Jesteśmy społecznością, która dąży do zebrania w jednym miejscu najlepszych polskich botów, zapewniając użytkownikom łatwy dostęp do narzędzi i funkcji, które mogą poprawić interakcje i zarządzanie serwerami.
+  image: https://t726421.topbots.pl/static/metaname.png
+  color: "#176B4A"
+
+search:                       # Custom configuration of the website search
+  hotkeys:
+    - "/"                     # Keyboard key to set focus in the search field
+                              # Default is "k"
+  maxResults: 20              # Max number of search results to render
+  minChars: 2                 # Min characters required to trigger a search
+  mode: full                  # The search index creation mode
+                              # Options include: full | partial | basic
+  noResultsFoundMsg: "Brak wyników" # Message when no results are found
+  placeholder: Szukaj (/)         # Placeholder text used in the input field
