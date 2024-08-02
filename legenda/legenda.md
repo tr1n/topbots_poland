@@ -8,8 +8,8 @@
 <img src="/static/badges/bots/botmuzyczny.svg" height="24" width="24"> - Ikona oznacza zarządzanie przez zespół Bot Muzyczny.
 
 ## Odznaki aplikacji
-<img src="/static/badges/odznaki/supportscommands.ico"> - Aplikacja używa polecenia Slash Commands globalnie.
+<img src="/static/badges/odznaki/supportscommands.svg" height="30" width="30"> - Aplikacja używa polecenia Slash Commands globalnie.
 
-<img src="/static/badges/odznaki/premiumbot.ico"> - Aplikacja posiada opcje kupna subskrypcji w wbudowanym sklepie Discorda.
+<img src="/static/badges/odznaki/premiumbot.svg" height="30" width="30"> - Aplikacja posiada opcje kupna subskrypcji w wbudowanym sklepie Discorda.
 
-<img src="/static/badges/odznaki/automod.ico"> - Aplikacja utworzyła 100 zasad AutoMod na serwerach.
+<img src="/static/badges/odznaki/automod.svg" height="30" width="30"> - Aplikacja utworzyła 100 zasad AutoMod na serwerach.
