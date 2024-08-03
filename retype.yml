@@ -10,7 +10,7 @@ branding:
   logoDark: static/logo-dark.png
   logoAlign: left
   title: topbots.pl
-  label: "Aktualizacja: 02.08.2024"
+  label: "Aktualizacja: 04.08.2024"
   colors:
     label:
       text: "#00FF99"
@@ -45,7 +45,6 @@ meta:
   title: " | Polska topka botów na Discord ▪️ topbots.pl"
   description: TopBots to miejsce, gdzie znajdziesz najbardziej wartościowe i popularne boty, które wzbogacą Twoje doświadczenie na Discordzie. Jesteśmy społecznością, która dąży do zebrania w jednym miejscu najlepszych polskich botów, zapewniając użytkownikom łatwy dostęp do narzędzi i funkcji, które mogą poprawić interakcje i zarządzanie serwerami.
   image: https://topbots.pl/static/metaname.png
-  color: "#176B4A"
 
 search:                       # Custom configuration of the website search
   hotkeys:

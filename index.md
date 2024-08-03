@@ -9,7 +9,7 @@ Jeżeli znasz bota, który działa na ponad 500 serwerach, podziel się tą info
 
 ### Dołącz do nas i odkryj najlepsze boty, które zmienią Twój serwer na lepsze!
 
-[Dołącz do naszego Discorda!](https://discord.com/)
+[Dołącz do naszego Discorda!](https://discord.gg/BcRcCAV4gS)
 
 # 
 # 
