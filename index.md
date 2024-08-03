@@ -15,8 +15,8 @@ Jeżeli znasz bota, który działa na ponad 500 serwerach, podziel się tą info
 # 
 
 ### Uwagi
-* *Aktualizacje tabeli są wykonywane ręcznie. Jeśli pojawi się jakakolwiek zmiana zostanie to wykonane.*
-* *Pamiętaj, że tabele mogą być niekompletne. Możesz pomóc w uzupełnieniu kontaktując się z nami na serwerze Discord.*
-* *Mniejsze boty będą wstawiane od 150 serwerów, limit może się zmienić.*
+* Aktualizacje tabeli są wykonywane ręcznie. Jeśli pojawi się jakakolwiek zmiana zostanie to wykonane.
+* Pamiętaj, że tabele mogą być niekompletne. Możesz pomóc w uzupełnieniu kontaktując się z nami na serwerze Discord.
+* Mniejsze boty będą wstawiane od 150 serwerów, limit może się zmienić.
 
 

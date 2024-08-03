@@ -3,9 +3,9 @@
 
 <img src="/static/badges/bots/boomfinity.svg" height="24" width="24"> - Ikona oznacza zarządzanie przez zespół BOOMfinity.
 
-<img src="/static/badges/bots/startit.svg" height="24" width="24"> - Ikona oznacza zarządzanie przez zespół StartIT.
-
 <img src="/static/badges/bots/botmuzyczny.svg" height="24" width="24"> - Ikona oznacza zarządzanie przez zespół Bot Muzyczny.
+
+<img src="/static/badges/bots/startit.svg" height="24" width="24"> - Ikona oznacza zarządzanie przez zespół StartIT.
 
 ## Odznaki aplikacji
 <img src="/static/badges/odznaki/supportscommands.svg" height="30" width="30"> - Aplikacja używa polecenia Slash Commands globalnie.
