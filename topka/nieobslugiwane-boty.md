@@ -1,4 +1,4 @@
-[!badge size="m" variant="info" icon="clock" text="Ostatnia aktualizacja:" margin="0 8 0 0"] [!badge size="m" variant="info" text="5 sierpnia 2024, godzina: 20:15" margin="0 8 0 0"]
+[!badge size="m" variant="info" icon="clock" text="Ostatnia aktualizacja:" margin="0 8 0 0"] [!badge size="m" variant="info" text="5 sierpnia 2024, godzina: 20:35" margin="0 8 0 0"]
 
 [!badge size="m" variant="warning" icon="x-circle-fill" text="Nie będą aktualizowane szacunkowe liczby serwerów." margin="0 8 0 0"]
 
@@ -12,7 +12,7 @@
 |    6 | [LabyBOT](https://discord.com/oauth2/authorize?client_id=546058545917984769&scope=bot)          |      2,250        |        Brak wsparcia ze strony twórców. |
 |    7 | [MiniMusicBot 2](https://discord.com/oauth2/authorize?client_id=889609046334783548&scope=bot)          |      2,220        |        Nieznane. |
 |    8 | [Tune🎶](https://discord.com/oauth2/authorize?client_id=821795249348411393&scope=bot)           |      2,200        |       Zamknięcie z powodu wykorzystywania API YouTube.   |
-|    9 | [Infinity 💣](https://discord.com/oauth2/authorize?client_id=545926934886875139&scope=bot)           |      2,140        |       Dawna beta, dawny bot społecznościowy  |
+|    9 | [Infinity 💣](https://discord.com/oauth2/authorize?client_id=545926934886875139&scope=bot) <img src="/static/badges/bots/boomfinity.svg" height="20" width="20">          |      2,140        |       Dawna beta, dawny bot społecznościowy  |
 |    10 | [ClearBot](https://discord.com/oauth2/authorize?client_id=639882671014805514&scope=bot)           |      1,910        |       Nieznana.   |
 |    11 | [NeroBot](https://discord.com/oauth2/authorize?client_id=715273322199515316&scope=bot)           |      1,400        |       Nieznana.   |
 |    12 | [KuvuBot](https://discord.com/oauth2/authorize?client_id=205965155282976768&scope=bot)           |      1,260        |       Nieznana.   |
@@ -26,3 +26,4 @@
 |    20 | [Wiking](https://discord.com/oauth2/authorize?client_id=891750372635443291&permissions=8&scope=bot)        |               598 | Nieznana. |
 |    21 | [ModBot](https://discord.com/oauth2/authorize?client_id=890577647980146688&permissions=8&scope=bot)        |               588 | Nieznana. |
 |    22 | [Versy](https://discord.com/oauth2/authorize?client_id=777962341601247302&permissions=8&scope=bot)        |               576 | Nieznana. | 
+|    23 | [Nephrite](https://discordapp.com/oauth2/authorize?client_id=964164280461168691&permissions=8&scope=bot) | 417 | Brak chęci twórców. |
