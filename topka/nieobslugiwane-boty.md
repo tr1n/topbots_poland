@@ -26,3 +26,4 @@
 |    20 | [Wiking](https://discord.com/oauth2/authorize?client_id=891750372635443291&permissions=8&scope=bot)        |               598 | Nieznana. |
 |    21 | [ModBot](https://discord.com/oauth2/authorize?client_id=890577647980146688&permissions=8&scope=bot)        |               588 | Nieznana. |
 |    22 | [Versy](https://discord.com/oauth2/authorize?client_id=777962341601247302&permissions=8&scope=bot)        |               576 | Nieznana. | 
+|    23 | [Nephrite](https://discordapp.com/oauth2/authorize?client_id=964164280461168691&permissions=8&scope=bot) | 417 | Brak chęci twórców. |
