@@ -1,4 +1,4 @@
-[!badge size="m" variant="info" icon="clock" text="Ostatnia aktualizacja:" margin="0 8 0 0"] [!badge size="m" variant="info" text="6 sierpnia 2024, godzina: 17:05" margin="0 8 0 0"]
+[!badge size="m" variant="info" icon="clock" text="Ostatnia aktualizacja:" margin="0 8 0 0"] [!badge size="m" variant="info" text="6 sierpnia 2024, godzina: 22:45" margin="0 8 0 0"]
 
 [!badge size="m" variant="warning" icon="x-circle-fill" text="Nie będą aktualizowane szacunkowe liczby serwerów." margin="0 8 0 0"]
 
@@ -22,8 +22,12 @@
 |    16 | [Metrum](https://discord.com/oauth2/authorize?client_id=890577647980146688&permissions=8&scope=bot)        |               858 | Nieznana. |
 |    17 | [Genzy](https://discord.com/oauth2/authorize?client_id=954496821672153119&scope=bot)           |      814        |       Brak chęci twórcy.   |
 |    18 | [Shiroe](https://discord.com/oauth2/authorize?client_id=778697286950715413&permissions=8&scope=bot)        |               761 | Migracja do nowego bota. |
-|    19 | [KorwinowyBot](https://discord.com/oauth2/authorize?client_id=778641026776301608&permissions=8&scope=bot)        |               676 | Mniejsze zainteresowanie bota. |
-|    20 | [Wiking](https://discord.com/oauth2/authorize?client_id=891750372635443291&permissions=8&scope=bot)        |               598 | Nieznana. |
-|    21 | [ModBot](https://discord.com/oauth2/authorize?client_id=890577647980146688&permissions=8&scope=bot)        |               588 | Nieznana. |
-|    22 | [Versy](https://discord.com/oauth2/authorize?client_id=777962341601247302&permissions=8&scope=bot)        |               576 | Nieznana. | 
-|    23 | [Nephrite](https://discordapp.com/oauth2/authorize?client_id=964164280461168691&permissions=8&scope=bot) | 417 | Brak chęci twórców. |
+|    19 | [Crusty](https://discord.com/oauth2/authorize?client_id=699605348134158424&scope=bot&permissions=8)        |               746 | Brak weryfikacji. |
+|    20 | [KorwinowyBot](https://discord.com/oauth2/authorize?client_id=778641026776301608&permissions=8&scope=bot)        |               676 | Mniejsze zainteresowanie bota. |
+|    21 | [Wiking](https://discord.com/oauth2/authorize?client_id=891750372635443291&permissions=8&scope=bot)        |               598 | Nieznana. |
+|    22 | [ModBot](https://discord.com/oauth2/authorize?client_id=890577647980146688&permissions=8&scope=bot)        |               588 | Nieznana. |
+|    23 | [Versy](https://discord.com/oauth2/authorize?client_id=777962341601247302&permissions=8&scope=bot)        |               576 | Nieznana. | 
+|    24 | [Nephrite](https://discordapp.com/oauth2/authorize?client_id=964164280461168691&permissions=8&scope=bot) | 417 | Brak chęci twórców. |
+|    25 | [Monika](https://discord.com/oauth2/authorize?client_id=707952241536925736&permissions=8&scope=bot) | 209 | Brak weryfikacji. |
+|    26 | [OlgBot](https://discord.com/oauth2/authorize?client_id=576439878355779585&permissions=8&scope=bot) | 191 | Brak weryfikacji. |
+|    27 | [BloodBOTv2](https://discord.com/oauth2/authorize?client_id=760819319293739049&permissions=8&scope=bot) | 124 | Brak weryfikacji. |
