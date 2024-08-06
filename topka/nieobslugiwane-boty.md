@@ -1,4 +1,4 @@
-[!badge size="m" variant="info" icon="clock" text="Ostatnia aktualizacja:" margin="0 8 0 0"] [!badge size="m" variant="info" text="5 sierpnia 2024, godzina: 20:35" margin="0 8 0 0"]
+[!badge size="m" variant="info" icon="clock" text="Ostatnia aktualizacja:" margin="0 8 0 0"] [!badge size="m" variant="info" text="6 sierpnia 2024, godzina: 17:05" margin="0 8 0 0"]
 
 [!badge size="m" variant="warning" icon="x-circle-fill" text="Nie będą aktualizowane szacunkowe liczby serwerów." margin="0 8 0 0"]
 
@@ -6,7 +6,7 @@
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------ | ------------------------ | 
 |    1 | [EditBOT](https://discord.com/oauth2/authorize?client_id=531953322899275797&scope=bot)             |               Nieznana (prawdopodnie 50,000) |       Szkodliwe działania dotyczące łamanie prywatności użytkowników.   |
 |    2 | [SaffyV2](https://discord.com/oauth2/authorize?client_id=584011219103514635&scope=bot)             |      5,100        |       Brak chęci twórców.   |
-|    3 | [YetAnotherBot](https://discord.com/oauth2/authorize?client_id=576468895461015552&permissions=8&scope=bot)        |               4,690 | Nieznana |
+|    3 | [YetAnotherBot](https://discord.com/oauth2/authorize?client_id=576468895461015552&permissions=8&scope=bot)        |               4,690 | Nieznana. |
 |    4 | [FratikB0T](https://discord.com/oauth2/authorize?client_id=338359366891732993&permissions=8&scope=bot)        |               3,520 | Brak weryfikacji. |
 |    5 | [Vision](https://discord.com/oauth2/authorize?client_id=987166863593189376&permissions=8&scope=bot)        |               2,500 | Łamanie ToS discorda. |
 |    6 | [LabyBOT](https://discord.com/oauth2/authorize?client_id=546058545917984769&scope=bot)          |      2,250        |        Brak wsparcia ze strony twórców. |
