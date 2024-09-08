@@ -1,5 +1,8 @@
 
 # Witamy na TopBots!
+
+[!badge size="l" variant="warning" icon="alert" text="Aktualnie trwają prace nad nową stroną tego projektu! Więcej informacji na naszym serwerze Discord." margin="0 8 0 0"]
+
 ## Najlepsza lista Polskich botów na discordzie!
 
 TopBots to miejsce, gdzie znajdziesz najbardziej wartościowe i popularne boty, które wzbogacą Twoje doświadczenie na Discordzie. Jesteśmy społecznością, która dąży do zebrania w jednym miejscu najlepszych polskich botów, zapewniając użytkownikom łatwy dostęp do narzędzi i funkcji, które mogą poprawić interakcje i zarządzanie serwerami.
