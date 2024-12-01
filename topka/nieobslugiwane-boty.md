@@ -1,4 +1,4 @@
-[!badge size="m" variant="info" icon="clock" text="Ostatnia aktualizacja:" margin="0 8 0 0"] [!badge size="m" variant="info" text="8 września 2024, godzina: 14:00" margin="0 8 0 0"]
+[!badge size="m" variant="info" icon="clock" text="Ostatnia aktualizacja:" margin="0 8 0 0"] [!badge size="m" variant="info" text="01 grudnia 2024, godzina: 17:30" margin="0 8 0 0"]
 
 [!badge size="m" variant="warning" icon="x-circle-fill" text="Nie będą aktualizowane szacunkowe liczby serwerów." margin="0 8 0 0"]
 
@@ -30,3 +30,8 @@
 |    24 | [Monika](https://discord.com/oauth2/authorize?client_id=707952241536925736&permissions=8&scope=bot) | 209 | Brak weryfikacji. |
 |    25 | [OlgBot](https://discord.com/oauth2/authorize?client_id=576439878355779585&permissions=8&scope=bot) | 191 | Brak weryfikacji. |
 |    26 | [BloodBOTv2](https://discord.com/oauth2/authorize?client_id=760819319293739049&permissions=8&scope=bot) | 124 | Brak weryfikacji. |
+|    27 | [Aviation](https://discord.com/oauth2/authorize?client_id=1038232661900152912&permissions=8&scope=bot)        |               393 | discord.js | Nieznana |
+|    28 | [Dev Bot](https://discord.com/oauth2/authorize?client_id=931245390836146186&permissions=8&scope=bot)       |               354 | discord.js | Nieznana |
+|    29 | [FratikB0T](https://discord.com/oauth2/authorize?client_id=338359366891732993&permissions=8&scope=bot)        |               3,500 | b/d | Nieznana |
+|    30 | [DBIT](https://discord.com/oauth2/authorize?client_id=680358256732143626&scope=bot&permissions=8)       |               210 | discord.js | Nieznana |
+|    31 | [Bot Muzyczny 2](https://discord.com/oauth2/authorize?client_id=933385820889550878&permissions=8&scope=bot) <img src="/static/badges/bots/botmuzyczny.svg" height="20" width="20">        |       1,300         | discord.js | Nieznana |
