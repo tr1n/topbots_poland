@@ -29,9 +29,9 @@
 |    23 | [ModBot](https://discord.com/oauth2/authorize?client_id=890577647980146688&permissions=8&scope=bot)        |               588 | Nieznana. |
 |    24 | [Versy](https://discord.com/oauth2/authorize?client_id=777962341601247302&permissions=8&scope=bot)        |               576 | Nieznana. | 
 |    25 | [Nephrite](https://discordapp.com/oauth2/authorize?client_id=964164280461168691&permissions=8&scope=bot) | 417 | Brak chęci twórców. |
-|    26 | [Aviation](https://discord.com/oauth2/authorize?client_id=1038232661900152912&permissions=8&scope=bot)        |               393 | Nieznana |
-|    27 | [Dev Bot](https://discord.com/oauth2/authorize?client_id=931245390836146186&permissions=8&scope=bot)       |               354 | Nieznana |
-|    28 | [DBIT](https://discord.com/oauth2/authorize?client_id=680358256732143626&scope=bot&permissions=8)       |               210 | Nieznana |
+|    26 | [Aviation](https://discord.com/oauth2/authorize?client_id=1038232661900152912&permissions=8&scope=bot)        |               393 | Nieznana. |
+|    27 | [Dev Bot](https://discord.com/oauth2/authorize?client_id=931245390836146186&permissions=8&scope=bot)       |               354 | Nieznana. |
+|    28 | [DBIT](https://discord.com/oauth2/authorize?client_id=680358256732143626&scope=bot&permissions=8)       |               210 | Nieznana. |
 |    29 | [Monika](https://discord.com/oauth2/authorize?client_id=707952241536925736&permissions=8&scope=bot) | 209 | Brak weryfikacji. |
 |    30 | [OlgBot](https://discord.com/oauth2/authorize?client_id=576439878355779585&permissions=8&scope=bot) | 191 | Brak weryfikacji. |
 |    31 | [BloodBOTv2](https://discord.com/oauth2/authorize?client_id=760819319293739049&permissions=8&scope=bot) | 124 | Brak weryfikacji. |
