@@ -14,5 +14,5 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
-        source: ".*"
+        source: ${{ steps.changed-files.outputs.all_changed_files }}
         target: /opt/_data/topbots.pl
