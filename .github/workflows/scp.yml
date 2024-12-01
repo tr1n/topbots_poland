@@ -14,5 +14,10 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
-        source: ${{ steps.changed-files.outputs.all_changed_files }}
+        source: "legenda/legenda.md"
+        source: "tests/a.txt,tests/b.txt"
+        source: "podziekowania/podziekowania.md"
+        source: "topka/150.md,topka/250.md,topka/500.md,topka/1000.md,topka/10000.md,topka/100000.md,topka/nieobslugiwane-boty.md"
+        source: "index.md"
+        source: "retype.yml"
         target: /opt/_data/topbots.pl
