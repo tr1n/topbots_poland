@@ -10,7 +10,7 @@ branding:
   logoDark: static/logo-dark.png
   logoAlign: left
   title: topbots.pl
-  label: "Aktualizacja: 24.02.2025"
+  label: "Aktualizacja: 15.03.2025"
   colors:
     label:
       text: "#00FF99"
